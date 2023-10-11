@@ -56,5 +56,5 @@ To run this project locally, follow these steps:
      npm start
      
 ## Acknowledgments
-This project was developed to provide an efficient and user-friendly digital invoicing platform. We hope you find it useful and welcome any feedback or contributions.
+This project was developed to provide an efficient and user-friendly digital invoicing platform. I hope you find it useful and welcome any feedback or contributions.
 
